@@ -10,6 +10,7 @@
 .idea/**/workspace.xml
 .idea/**/tasks.xml
 .idea/dictionaries
+.idea/libraries
 
 # Sensitive or high-churn files:
 .idea/**/dataSources/
@@ -29,6 +30,7 @@ cmake-build-debug/
 
 ### Gradle ###
 .gradle
+.gradle/
 /build/
 
 # Ignore Gradle GUI config
